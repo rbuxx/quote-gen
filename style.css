@@ -1,0 +1,81 @@
+
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background: #3CEC97;
+}
+
+.container-fluid {
+  border: 1px solid white;
+  text-align: center;
+  margin-top: 15%;
+  background: white;
+  max-width: 50%;
+  margin-left: 25%;
+}
+
+.fa-quote-left {
+  display: inline;
+}
+
+.quotes {
+  margin: 5%;
+  padding: auto;
+}
+
+#quote {
+  padding: 2%;
+  display: inline;
+  font-size: 18px;
+}
+
+.button {
+  background-color: #888;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.button:hover {
+  background-color: #3CEC97;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#getQuote {
+margin-right: 2%;
+}
+
+#tweet-quote {
+margin-left: 2%;
+}
+
+.container {
+  text-align: center;
+}
+
+.credit {
+  color: white;
+  font-size: 13px;
+  padding: 2%;
+}
+
+.link {
+  text-decoration: none;
+  color: #FFF;
+
+}
+
+.link:hover {
+  color: #4CAF50;
+}
